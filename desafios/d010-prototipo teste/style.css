@@ -1,0 +1,45 @@
+body{
+    background-color: #84E1AD;
+}
+
+header{
+    background-image: linear-gradient(to top , #1A5C38, #3CD782);
+    padding: 10px;
+    margin: -10px;
+    border: 10px
+    
+}
+
+header > h1{
+    text-align: center;
+    color: white;
+}
+
+header > p{
+    text-align: center;
+    color: white;
+}
+
+nav >a {
+    text-decoration: none;
+    color: white;
+    padding: 3px;
+}
+
+main {
+    background-color: white;
+    color: black;
+    margin: 20px;
+    padding: 20px;
+    position: absolute; top: 216%; left: 50%; 
+    transform: translate(-50%, -50%);    
+
+}
+
+.rodape{
+    background-image: linear-gradient(to top , #1A5C38, #3CD782);
+    padding: 1px;
+    margin: -10px;
+    border: 1px
+    
+}
