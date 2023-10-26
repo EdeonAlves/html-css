@@ -55,7 +55,15 @@ footer{
     margin: 30px;
     width: 520px;
     height: 700px;
-    border: 2px solid black;
+    border: 2px solid transparent;
+}
+
+#texto1{
+    background-color: aqua;
+    margin: 30px;
+    width: 520px;
+    height: 700px;
+    border: 2px solid transparent;
 }
 
 .imagem{
