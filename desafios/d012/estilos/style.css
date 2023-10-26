@@ -50,3 +50,14 @@ footer{
 }
 
 
+.normal{
+    display: inline-block;
+    margin: 30px;
+    width: 520px;
+    height: 700px;
+    border: 2px solid black;
+}
+
+.imagem{
+ background-attachment: cover; ;
+}
