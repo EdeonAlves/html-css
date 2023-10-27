@@ -37,22 +37,51 @@ header > p {
     font-family: var(--fonte1);
 }
 
+#link_header {
+    color: white;
+    text-decoration: none;
+}
+
+:hover > #link_header {
+    text-decoration: underline;
+    color: white;
+}
+
+
 .normal{
     font-family: var(--fonte3);
     font-size: 3em;
 
 } 
 
-
-footer{
-    background-color: black;
-    color: white;
-}
-
-
 .normal{
     display: inline-block;
     border: 2px solid transparent;
+}
+
+
+
+.imagem{
+    display: inline-block;
+    height: 100vh;
+}
+
+#img_1 {
+    margin: 0px;
+    padding: left;
+    width: 1348px;
+    background: center center no-repeat fixed;
+    background-size: cover;
+    
+}
+
+#img_2 {
+    margin: 0px;
+    padding: left;
+    width: 1348px;
+    background: center center no-repeat fixed;
+    background-size: cover;
+    
 }
 
 #texto1{
@@ -61,9 +90,6 @@ footer{
     height: 700px;
 }
 
-.imagem{
- background-attachment: cover; ;
-}
 
 #texto2 {
     margin: 30px;
@@ -76,3 +102,33 @@ footer{
     width: 520px;
     height: 1550px;
 }
+
+
+footer{
+    background-color: black;
+    color: white;
+    height: 30px;
+    text-align: center;
+    font-size: 1.2em;
+}
+
+#link_footer {
+    text-decoration: none;
+    color: white;
+}
+
+:hover > #link_footer {
+    text-decoration: underline;
+    color: white;
+}
+
+#link_footer2 {
+    text-decoration: none;
+    color: white;
+}
+
+:hover > #link_footer2 {
+    text-decoration: underline;
+    color: white;
+}
+
