@@ -52,20 +52,27 @@ footer{
 
 .normal{
     display: inline-block;
-    margin: 30px;
-    width: 520px;
-    height: 700px;
     border: 2px solid transparent;
 }
 
 #texto1{
-    background-color: aqua;
     margin: 30px;
     width: 520px;
     height: 700px;
-    border: 2px solid transparent;
 }
 
 .imagem{
  background-attachment: cover; ;
+}
+
+#texto2 {
+    margin: 30px;
+    width: 500px;
+    height: 1350px;
+}
+
+#texto3 {
+    margin: 30px;
+    width: 520px;
+    height: 1550px;
 }
