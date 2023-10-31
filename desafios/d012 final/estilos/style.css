@@ -49,7 +49,6 @@ header a:hover, footer a:hover {
     text-decoration: underline;
 }
 
-/*Cria o efeito paralax na section padding com 10vh */
 section {
     padding-top:  10vh;
     padding-bottom: 10vh;
